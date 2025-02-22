@@ -102,14 +102,3 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
-
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can contribute:
-
-- Fork the repository.
-- Create your feature branch (`git checkout -b feature/AmazingFeature`).
-- Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-- Push to the branch (`git push origin feature/AmazingFeature`).
-- Open a pull request.
-
